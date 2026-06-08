@@ -34,5 +34,5 @@ I'm an aspiring Data Analyst with an MCA in Data Science from Jain Deemed-to-be 
 
 ## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jameshalam/)
-- 🐙 [GitHub](https://github.com/Jamesranglong)
+-  [LinkedIn](https://www.linkedin.com/in/jameshalam/)
+-  [GitHub](https://github.com/Jamesranglong)
